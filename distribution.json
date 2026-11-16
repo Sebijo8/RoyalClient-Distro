@@ -1,4 +1,4 @@
-{
+﻿{
   "version": "1.0.0",
   "rss": "<LINK TO RSS FEED>",
   "discord": {
@@ -948,7 +948,7 @@
           "artifact": {
             "size": 1387408,
             "MD5": "239d59118dec4324672b3d9e9d75efef",
-            "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/net/fabricmc/fabric-loader/0.16.10/fabric-loader-0.16.10.jar"
+            "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/net/fabricmc/fabric-loader/0.16.10/fabric-loader-0.16.10.jar"
           },
           "subModules": [
             {
@@ -968,7 +968,7 @@
               "artifact": {
                 "size": 126093,
                 "MD5": "e2cdd32d198ad31427d298eee9d39d8d",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm/9.7.1/asm-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm/9.7.1/asm-9.7.1.jar"
               }
             },
             {
@@ -978,7 +978,7 @@
               "artifact": {
                 "size": 35126,
                 "MD5": "4cd9e7178dfb85371bba3077e40cd514",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm-analysis/9.7.1/asm-analysis-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm-analysis/9.7.1/asm-analysis-9.7.1.jar"
               }
             },
             {
@@ -988,7 +988,7 @@
               "artifact": {
                 "size": 73459,
                 "MD5": "8344aea3c8b7d707e9d35a62710e77c9",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm-commons/9.7.1/asm-commons-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm-commons/9.7.1/asm-commons-9.7.1.jar"
               }
             },
             {
@@ -998,7 +998,7 @@
               "artifact": {
                 "size": 51939,
                 "MD5": "e85029f613b6469989cc7cf53fe06b74",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm-tree/9.7.1/asm-tree-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm-tree/9.7.1/asm-tree-9.7.1.jar"
               }
             },
             {
@@ -1008,7 +1008,7 @@
               "artifact": {
                 "size": 94519,
                 "MD5": "36d373a9cd6cad9b35db9f984c6b4bbb",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm-util/9.7.1/asm-util-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm-util/9.7.1/asm-util-9.7.1.jar"
               }
             },
             {
@@ -1018,7 +1018,7 @@
               "artifact": {
                 "size": 1494834,
                 "MD5": "991ca8be2c408fe19eb64014d8a18243",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar"
               }
             },
             {
@@ -1028,7 +1028,7 @@
               "artifact": {
                 "size": 292028,
                 "MD5": "08f34c06c8503dde89318dff5d5e519b",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/net/fabricmc/intermediary/1.14/intermediary-1.14.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/net/fabricmc/intermediary/1.14/intermediary-1.14.jar"
               }
             }
           ]
@@ -1058,7 +1058,7 @@
           "artifact": {
             "size": 1387408,
             "MD5": "239d59118dec4324672b3d9e9d75efef",
-            "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/net/fabricmc/fabric-loader/0.16.10/fabric-loader-0.16.10.jar"
+            "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/net/fabricmc/fabric-loader/0.16.10/fabric-loader-0.16.10.jar"
           },
           "subModules": [
             {
@@ -1078,7 +1078,7 @@
               "artifact": {
                 "size": 126093,
                 "MD5": "e2cdd32d198ad31427d298eee9d39d8d",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm/9.7.1/asm-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm/9.7.1/asm-9.7.1.jar"
               }
             },
             {
@@ -1088,7 +1088,7 @@
               "artifact": {
                 "size": 35126,
                 "MD5": "4cd9e7178dfb85371bba3077e40cd514",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm-analysis/9.7.1/asm-analysis-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm-analysis/9.7.1/asm-analysis-9.7.1.jar"
               }
             },
             {
@@ -1098,7 +1098,7 @@
               "artifact": {
                 "size": 73459,
                 "MD5": "8344aea3c8b7d707e9d35a62710e77c9",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm-commons/9.7.1/asm-commons-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm-commons/9.7.1/asm-commons-9.7.1.jar"
               }
             },
             {
@@ -1108,7 +1108,7 @@
               "artifact": {
                 "size": 51939,
                 "MD5": "e85029f613b6469989cc7cf53fe06b74",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm-tree/9.7.1/asm-tree-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm-tree/9.7.1/asm-tree-9.7.1.jar"
               }
             },
             {
@@ -1118,7 +1118,7 @@
               "artifact": {
                 "size": 94519,
                 "MD5": "36d373a9cd6cad9b35db9f984c6b4bbb",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm-util/9.7.1/asm-util-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm-util/9.7.1/asm-util-9.7.1.jar"
               }
             },
             {
@@ -1128,7 +1128,7 @@
               "artifact": {
                 "size": 1494834,
                 "MD5": "991ca8be2c408fe19eb64014d8a18243",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar"
               }
             },
             {
@@ -1138,7 +1138,7 @@
               "artifact": {
                 "size": 293210,
                 "MD5": "537f1cbfc88722af4c3050918e77dadc",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/net/fabricmc/intermediary/1.14.1/intermediary-1.14.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/net/fabricmc/intermediary/1.14.1/intermediary-1.14.1.jar"
               }
             }
           ]
@@ -1168,7 +1168,7 @@
           "artifact": {
             "size": 1387408,
             "MD5": "239d59118dec4324672b3d9e9d75efef",
-            "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/net/fabricmc/fabric-loader/0.16.10/fabric-loader-0.16.10.jar"
+            "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/net/fabricmc/fabric-loader/0.16.10/fabric-loader-0.16.10.jar"
           },
           "subModules": [
             {
@@ -1188,7 +1188,7 @@
               "artifact": {
                 "size": 126093,
                 "MD5": "e2cdd32d198ad31427d298eee9d39d8d",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm/9.7.1/asm-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm/9.7.1/asm-9.7.1.jar"
               }
             },
             {
@@ -1198,7 +1198,7 @@
               "artifact": {
                 "size": 35126,
                 "MD5": "4cd9e7178dfb85371bba3077e40cd514",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm-analysis/9.7.1/asm-analysis-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm-analysis/9.7.1/asm-analysis-9.7.1.jar"
               }
             },
             {
@@ -1208,7 +1208,7 @@
               "artifact": {
                 "size": 73459,
                 "MD5": "8344aea3c8b7d707e9d35a62710e77c9",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm-commons/9.7.1/asm-commons-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm-commons/9.7.1/asm-commons-9.7.1.jar"
               }
             },
             {
@@ -1218,7 +1218,7 @@
               "artifact": {
                 "size": 51939,
                 "MD5": "e85029f613b6469989cc7cf53fe06b74",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm-tree/9.7.1/asm-tree-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm-tree/9.7.1/asm-tree-9.7.1.jar"
               }
             },
             {
@@ -1228,7 +1228,7 @@
               "artifact": {
                 "size": 94519,
                 "MD5": "36d373a9cd6cad9b35db9f984c6b4bbb",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm-util/9.7.1/asm-util-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm-util/9.7.1/asm-util-9.7.1.jar"
               }
             },
             {
@@ -1238,7 +1238,7 @@
               "artifact": {
                 "size": 1494834,
                 "MD5": "991ca8be2c408fe19eb64014d8a18243",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar"
               }
             },
             {
@@ -1248,7 +1248,7 @@
               "artifact": {
                 "size": 293632,
                 "MD5": "80e0f937fd6c1fdca5fbed5c01e2cd6c",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/net/fabricmc/intermediary/1.14.2/intermediary-1.14.2.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/net/fabricmc/intermediary/1.14.2/intermediary-1.14.2.jar"
               }
             }
           ]
@@ -1278,7 +1278,7 @@
           "artifact": {
             "size": 1387408,
             "MD5": "239d59118dec4324672b3d9e9d75efef",
-            "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/net/fabricmc/fabric-loader/0.16.10/fabric-loader-0.16.10.jar"
+            "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/net/fabricmc/fabric-loader/0.16.10/fabric-loader-0.16.10.jar"
           },
           "subModules": [
             {
@@ -1298,7 +1298,7 @@
               "artifact": {
                 "size": 126093,
                 "MD5": "e2cdd32d198ad31427d298eee9d39d8d",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm/9.7.1/asm-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm/9.7.1/asm-9.7.1.jar"
               }
             },
             {
@@ -1308,7 +1308,7 @@
               "artifact": {
                 "size": 35126,
                 "MD5": "4cd9e7178dfb85371bba3077e40cd514",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm-analysis/9.7.1/asm-analysis-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm-analysis/9.7.1/asm-analysis-9.7.1.jar"
               }
             },
             {
@@ -1318,7 +1318,7 @@
               "artifact": {
                 "size": 73459,
                 "MD5": "8344aea3c8b7d707e9d35a62710e77c9",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm-commons/9.7.1/asm-commons-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm-commons/9.7.1/asm-commons-9.7.1.jar"
               }
             },
             {
@@ -1328,7 +1328,7 @@
               "artifact": {
                 "size": 51939,
                 "MD5": "e85029f613b6469989cc7cf53fe06b74",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm-tree/9.7.1/asm-tree-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm-tree/9.7.1/asm-tree-9.7.1.jar"
               }
             },
             {
@@ -1338,7 +1338,7 @@
               "artifact": {
                 "size": 94519,
                 "MD5": "36d373a9cd6cad9b35db9f984c6b4bbb",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm-util/9.7.1/asm-util-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm-util/9.7.1/asm-util-9.7.1.jar"
               }
             },
             {
@@ -1348,7 +1348,7 @@
               "artifact": {
                 "size": 1494834,
                 "MD5": "991ca8be2c408fe19eb64014d8a18243",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar"
               }
             },
             {
@@ -1358,7 +1358,7 @@
               "artifact": {
                 "size": 318947,
                 "MD5": "770a7fab65b57cdcfbe3d735aa9d656f",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/net/fabricmc/intermediary/1.14.3/intermediary-1.14.3.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/net/fabricmc/intermediary/1.14.3/intermediary-1.14.3.jar"
               }
             }
           ]
@@ -1388,7 +1388,7 @@
           "artifact": {
             "size": 1387408,
             "MD5": "239d59118dec4324672b3d9e9d75efef",
-            "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/net/fabricmc/fabric-loader/0.16.10/fabric-loader-0.16.10.jar"
+            "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/net/fabricmc/fabric-loader/0.16.10/fabric-loader-0.16.10.jar"
           },
           "subModules": [
             {
@@ -1408,7 +1408,7 @@
               "artifact": {
                 "size": 126093,
                 "MD5": "e2cdd32d198ad31427d298eee9d39d8d",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm/9.7.1/asm-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm/9.7.1/asm-9.7.1.jar"
               }
             },
             {
@@ -1418,7 +1418,7 @@
               "artifact": {
                 "size": 35126,
                 "MD5": "4cd9e7178dfb85371bba3077e40cd514",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm-analysis/9.7.1/asm-analysis-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm-analysis/9.7.1/asm-analysis-9.7.1.jar"
               }
             },
             {
@@ -1428,7 +1428,7 @@
               "artifact": {
                 "size": 73459,
                 "MD5": "8344aea3c8b7d707e9d35a62710e77c9",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm-commons/9.7.1/asm-commons-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm-commons/9.7.1/asm-commons-9.7.1.jar"
               }
             },
             {
@@ -1438,7 +1438,7 @@
               "artifact": {
                 "size": 51939,
                 "MD5": "e85029f613b6469989cc7cf53fe06b74",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm-tree/9.7.1/asm-tree-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm-tree/9.7.1/asm-tree-9.7.1.jar"
               }
             },
             {
@@ -1448,7 +1448,7 @@
               "artifact": {
                 "size": 94519,
                 "MD5": "36d373a9cd6cad9b35db9f984c6b4bbb",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm-util/9.7.1/asm-util-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm-util/9.7.1/asm-util-9.7.1.jar"
               }
             },
             {
@@ -1458,7 +1458,7 @@
               "artifact": {
                 "size": 1494834,
                 "MD5": "991ca8be2c408fe19eb64014d8a18243",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar"
               }
             },
             {
@@ -1468,7 +1468,7 @@
               "artifact": {
                 "size": 336764,
                 "MD5": "023a6133e9d2cfb139a8ac9c83608ed5",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/net/fabricmc/intermediary/1.14.4/intermediary-1.14.4.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/net/fabricmc/intermediary/1.14.4/intermediary-1.14.4.jar"
               }
             }
           ]
@@ -1498,7 +1498,7 @@
           "artifact": {
             "size": 1387408,
             "MD5": "239d59118dec4324672b3d9e9d75efef",
-            "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/net/fabricmc/fabric-loader/0.16.10/fabric-loader-0.16.10.jar"
+            "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/net/fabricmc/fabric-loader/0.16.10/fabric-loader-0.16.10.jar"
           },
           "subModules": [
             {
@@ -1518,7 +1518,7 @@
               "artifact": {
                 "size": 126093,
                 "MD5": "e2cdd32d198ad31427d298eee9d39d8d",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm/9.7.1/asm-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm/9.7.1/asm-9.7.1.jar"
               }
             },
             {
@@ -1528,7 +1528,7 @@
               "artifact": {
                 "size": 35126,
                 "MD5": "4cd9e7178dfb85371bba3077e40cd514",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm-analysis/9.7.1/asm-analysis-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm-analysis/9.7.1/asm-analysis-9.7.1.jar"
               }
             },
             {
@@ -1538,7 +1538,7 @@
               "artifact": {
                 "size": 73459,
                 "MD5": "8344aea3c8b7d707e9d35a62710e77c9",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm-commons/9.7.1/asm-commons-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm-commons/9.7.1/asm-commons-9.7.1.jar"
               }
             },
             {
@@ -1548,7 +1548,7 @@
               "artifact": {
                 "size": 51939,
                 "MD5": "e85029f613b6469989cc7cf53fe06b74",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm-tree/9.7.1/asm-tree-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm-tree/9.7.1/asm-tree-9.7.1.jar"
               }
             },
             {
@@ -1558,7 +1558,7 @@
               "artifact": {
                 "size": 94519,
                 "MD5": "36d373a9cd6cad9b35db9f984c6b4bbb",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm-util/9.7.1/asm-util-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm-util/9.7.1/asm-util-9.7.1.jar"
               }
             },
             {
@@ -1568,7 +1568,7 @@
               "artifact": {
                 "size": 1494834,
                 "MD5": "991ca8be2c408fe19eb64014d8a18243",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar"
               }
             },
             {
@@ -1578,7 +1578,7 @@
               "artifact": {
                 "size": 353940,
                 "MD5": "d169bd3067fbd432942079e6fd6d7db5",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/net/fabricmc/intermediary/1.15/intermediary-1.15.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/net/fabricmc/intermediary/1.15/intermediary-1.15.jar"
               }
             }
           ]
@@ -1608,7 +1608,7 @@
           "artifact": {
             "size": 1387408,
             "MD5": "239d59118dec4324672b3d9e9d75efef",
-            "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/net/fabricmc/fabric-loader/0.16.10/fabric-loader-0.16.10.jar"
+            "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/net/fabricmc/fabric-loader/0.16.10/fabric-loader-0.16.10.jar"
           },
           "subModules": [
             {
@@ -1628,7 +1628,7 @@
               "artifact": {
                 "size": 126093,
                 "MD5": "e2cdd32d198ad31427d298eee9d39d8d",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm/9.7.1/asm-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm/9.7.1/asm-9.7.1.jar"
               }
             },
             {
@@ -1638,7 +1638,7 @@
               "artifact": {
                 "size": 35126,
                 "MD5": "4cd9e7178dfb85371bba3077e40cd514",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm-analysis/9.7.1/asm-analysis-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm-analysis/9.7.1/asm-analysis-9.7.1.jar"
               }
             },
             {
@@ -1648,7 +1648,7 @@
               "artifact": {
                 "size": 73459,
                 "MD5": "8344aea3c8b7d707e9d35a62710e77c9",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm-commons/9.7.1/asm-commons-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm-commons/9.7.1/asm-commons-9.7.1.jar"
               }
             },
             {
@@ -1658,7 +1658,7 @@
               "artifact": {
                 "size": 51939,
                 "MD5": "e85029f613b6469989cc7cf53fe06b74",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm-tree/9.7.1/asm-tree-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm-tree/9.7.1/asm-tree-9.7.1.jar"
               }
             },
             {
@@ -1668,7 +1668,7 @@
               "artifact": {
                 "size": 94519,
                 "MD5": "36d373a9cd6cad9b35db9f984c6b4bbb",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm-util/9.7.1/asm-util-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm-util/9.7.1/asm-util-9.7.1.jar"
               }
             },
             {
@@ -1678,7 +1678,7 @@
               "artifact": {
                 "size": 1494834,
                 "MD5": "991ca8be2c408fe19eb64014d8a18243",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar"
               }
             },
             {
@@ -1688,7 +1688,7 @@
               "artifact": {
                 "size": 353947,
                 "MD5": "9d0ef10b84716d93b9341ccfffcbab26",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/net/fabricmc/intermediary/1.15.1/intermediary-1.15.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/net/fabricmc/intermediary/1.15.1/intermediary-1.15.1.jar"
               }
             }
           ]
@@ -1718,7 +1718,7 @@
           "artifact": {
             "size": 1387408,
             "MD5": "239d59118dec4324672b3d9e9d75efef",
-            "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/net/fabricmc/fabric-loader/0.16.10/fabric-loader-0.16.10.jar"
+            "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/net/fabricmc/fabric-loader/0.16.10/fabric-loader-0.16.10.jar"
           },
           "subModules": [
             {
@@ -1738,7 +1738,7 @@
               "artifact": {
                 "size": 126093,
                 "MD5": "e2cdd32d198ad31427d298eee9d39d8d",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm/9.7.1/asm-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm/9.7.1/asm-9.7.1.jar"
               }
             },
             {
@@ -1748,7 +1748,7 @@
               "artifact": {
                 "size": 35126,
                 "MD5": "4cd9e7178dfb85371bba3077e40cd514",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm-analysis/9.7.1/asm-analysis-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm-analysis/9.7.1/asm-analysis-9.7.1.jar"
               }
             },
             {
@@ -1758,7 +1758,7 @@
               "artifact": {
                 "size": 73459,
                 "MD5": "8344aea3c8b7d707e9d35a62710e77c9",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm-commons/9.7.1/asm-commons-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm-commons/9.7.1/asm-commons-9.7.1.jar"
               }
             },
             {
@@ -1768,7 +1768,7 @@
               "artifact": {
                 "size": 51939,
                 "MD5": "e85029f613b6469989cc7cf53fe06b74",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm-tree/9.7.1/asm-tree-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm-tree/9.7.1/asm-tree-9.7.1.jar"
               }
             },
             {
@@ -1778,7 +1778,7 @@
               "artifact": {
                 "size": 94519,
                 "MD5": "36d373a9cd6cad9b35db9f984c6b4bbb",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm-util/9.7.1/asm-util-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm-util/9.7.1/asm-util-9.7.1.jar"
               }
             },
             {
@@ -1788,7 +1788,7 @@
               "artifact": {
                 "size": 1494834,
                 "MD5": "991ca8be2c408fe19eb64014d8a18243",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar"
               }
             },
             {
@@ -1798,7 +1798,7 @@
               "artifact": {
                 "size": 354863,
                 "MD5": "54d46597d27882c5e3b3235463b046d2",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/net/fabricmc/intermediary/1.15.2/intermediary-1.15.2.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/net/fabricmc/intermediary/1.15.2/intermediary-1.15.2.jar"
               }
             }
           ]
@@ -1828,7 +1828,7 @@
           "artifact": {
             "size": 1387408,
             "MD5": "239d59118dec4324672b3d9e9d75efef",
-            "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/net/fabricmc/fabric-loader/0.16.10/fabric-loader-0.16.10.jar"
+            "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/net/fabricmc/fabric-loader/0.16.10/fabric-loader-0.16.10.jar"
           },
           "subModules": [
             {
@@ -1848,7 +1848,7 @@
               "artifact": {
                 "size": 126093,
                 "MD5": "e2cdd32d198ad31427d298eee9d39d8d",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm/9.7.1/asm-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm/9.7.1/asm-9.7.1.jar"
               }
             },
             {
@@ -1858,7 +1858,7 @@
               "artifact": {
                 "size": 35126,
                 "MD5": "4cd9e7178dfb85371bba3077e40cd514",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm-analysis/9.7.1/asm-analysis-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm-analysis/9.7.1/asm-analysis-9.7.1.jar"
               }
             },
             {
@@ -1868,7 +1868,7 @@
               "artifact": {
                 "size": 73459,
                 "MD5": "8344aea3c8b7d707e9d35a62710e77c9",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm-commons/9.7.1/asm-commons-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm-commons/9.7.1/asm-commons-9.7.1.jar"
               }
             },
             {
@@ -1878,7 +1878,7 @@
               "artifact": {
                 "size": 51939,
                 "MD5": "e85029f613b6469989cc7cf53fe06b74",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm-tree/9.7.1/asm-tree-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm-tree/9.7.1/asm-tree-9.7.1.jar"
               }
             },
             {
@@ -1888,7 +1888,7 @@
               "artifact": {
                 "size": 94519,
                 "MD5": "36d373a9cd6cad9b35db9f984c6b4bbb",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm-util/9.7.1/asm-util-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm-util/9.7.1/asm-util-9.7.1.jar"
               }
             },
             {
@@ -1898,7 +1898,7 @@
               "artifact": {
                 "size": 1494834,
                 "MD5": "991ca8be2c408fe19eb64014d8a18243",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar"
               }
             },
             {
@@ -1908,7 +1908,7 @@
               "artifact": {
                 "size": 396588,
                 "MD5": "0d3ffe1fb89d70a3ce5eab501e84003e",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/net/fabricmc/intermediary/1.16/intermediary-1.16.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/net/fabricmc/intermediary/1.16/intermediary-1.16.jar"
               }
             }
           ]
@@ -1938,7 +1938,7 @@
           "artifact": {
             "size": 1387408,
             "MD5": "239d59118dec4324672b3d9e9d75efef",
-            "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/net/fabricmc/fabric-loader/0.16.10/fabric-loader-0.16.10.jar"
+            "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/net/fabricmc/fabric-loader/0.16.10/fabric-loader-0.16.10.jar"
           },
           "subModules": [
             {
@@ -1958,7 +1958,7 @@
               "artifact": {
                 "size": 126093,
                 "MD5": "e2cdd32d198ad31427d298eee9d39d8d",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm/9.7.1/asm-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm/9.7.1/asm-9.7.1.jar"
               }
             },
             {
@@ -1968,7 +1968,7 @@
               "artifact": {
                 "size": 35126,
                 "MD5": "4cd9e7178dfb85371bba3077e40cd514",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm-analysis/9.7.1/asm-analysis-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm-analysis/9.7.1/asm-analysis-9.7.1.jar"
               }
             },
             {
@@ -1978,7 +1978,7 @@
               "artifact": {
                 "size": 73459,
                 "MD5": "8344aea3c8b7d707e9d35a62710e77c9",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm-commons/9.7.1/asm-commons-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm-commons/9.7.1/asm-commons-9.7.1.jar"
               }
             },
             {
@@ -1988,7 +1988,7 @@
               "artifact": {
                 "size": 51939,
                 "MD5": "e85029f613b6469989cc7cf53fe06b74",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm-tree/9.7.1/asm-tree-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm-tree/9.7.1/asm-tree-9.7.1.jar"
               }
             },
             {
@@ -1998,7 +1998,7 @@
               "artifact": {
                 "size": 94519,
                 "MD5": "36d373a9cd6cad9b35db9f984c6b4bbb",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm-util/9.7.1/asm-util-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm-util/9.7.1/asm-util-9.7.1.jar"
               }
             },
             {
@@ -2008,7 +2008,7 @@
               "artifact": {
                 "size": 1494834,
                 "MD5": "991ca8be2c408fe19eb64014d8a18243",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar"
               }
             },
             {
@@ -2018,7 +2018,7 @@
               "artifact": {
                 "size": 396588,
                 "MD5": "a213f930081250b65e05f817e88fbec6",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/net/fabricmc/intermediary/1.16.1/intermediary-1.16.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/net/fabricmc/intermediary/1.16.1/intermediary-1.16.1.jar"
               }
             }
           ]
@@ -2048,7 +2048,7 @@
           "artifact": {
             "size": 1387408,
             "MD5": "239d59118dec4324672b3d9e9d75efef",
-            "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/net/fabricmc/fabric-loader/0.16.10/fabric-loader-0.16.10.jar"
+            "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/net/fabricmc/fabric-loader/0.16.10/fabric-loader-0.16.10.jar"
           },
           "subModules": [
             {
@@ -2068,7 +2068,7 @@
               "artifact": {
                 "size": 126093,
                 "MD5": "e2cdd32d198ad31427d298eee9d39d8d",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm/9.7.1/asm-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm/9.7.1/asm-9.7.1.jar"
               }
             },
             {
@@ -2078,7 +2078,7 @@
               "artifact": {
                 "size": 35126,
                 "MD5": "4cd9e7178dfb85371bba3077e40cd514",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm-analysis/9.7.1/asm-analysis-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm-analysis/9.7.1/asm-analysis-9.7.1.jar"
               }
             },
             {
@@ -2088,7 +2088,7 @@
               "artifact": {
                 "size": 73459,
                 "MD5": "8344aea3c8b7d707e9d35a62710e77c9",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm-commons/9.7.1/asm-commons-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm-commons/9.7.1/asm-commons-9.7.1.jar"
               }
             },
             {
@@ -2098,7 +2098,7 @@
               "artifact": {
                 "size": 51939,
                 "MD5": "e85029f613b6469989cc7cf53fe06b74",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm-tree/9.7.1/asm-tree-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm-tree/9.7.1/asm-tree-9.7.1.jar"
               }
             },
             {
@@ -2108,7 +2108,7 @@
               "artifact": {
                 "size": 94519,
                 "MD5": "36d373a9cd6cad9b35db9f984c6b4bbb",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm-util/9.7.1/asm-util-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm-util/9.7.1/asm-util-9.7.1.jar"
               }
             },
             {
@@ -2118,7 +2118,7 @@
               "artifact": {
                 "size": 1494834,
                 "MD5": "991ca8be2c408fe19eb64014d8a18243",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar"
               }
             },
             {
@@ -2128,7 +2128,7 @@
               "artifact": {
                 "size": 404364,
                 "MD5": "cfe1ffcadfff7eae9678223f8ef73d6a",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/net/fabricmc/intermediary/1.16.2/intermediary-1.16.2.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/net/fabricmc/intermediary/1.16.2/intermediary-1.16.2.jar"
               }
             }
           ]
@@ -2158,7 +2158,7 @@
           "artifact": {
             "size": 1387408,
             "MD5": "239d59118dec4324672b3d9e9d75efef",
-            "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/net/fabricmc/fabric-loader/0.16.10/fabric-loader-0.16.10.jar"
+            "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/net/fabricmc/fabric-loader/0.16.10/fabric-loader-0.16.10.jar"
           },
           "subModules": [
             {
@@ -2178,7 +2178,7 @@
               "artifact": {
                 "size": 126093,
                 "MD5": "e2cdd32d198ad31427d298eee9d39d8d",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm/9.7.1/asm-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm/9.7.1/asm-9.7.1.jar"
               }
             },
             {
@@ -2188,7 +2188,7 @@
               "artifact": {
                 "size": 35126,
                 "MD5": "4cd9e7178dfb85371bba3077e40cd514",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm-analysis/9.7.1/asm-analysis-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm-analysis/9.7.1/asm-analysis-9.7.1.jar"
               }
             },
             {
@@ -2198,7 +2198,7 @@
               "artifact": {
                 "size": 73459,
                 "MD5": "8344aea3c8b7d707e9d35a62710e77c9",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm-commons/9.7.1/asm-commons-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm-commons/9.7.1/asm-commons-9.7.1.jar"
               }
             },
             {
@@ -2208,7 +2208,7 @@
               "artifact": {
                 "size": 51939,
                 "MD5": "e85029f613b6469989cc7cf53fe06b74",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm-tree/9.7.1/asm-tree-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm-tree/9.7.1/asm-tree-9.7.1.jar"
               }
             },
             {
@@ -2218,7 +2218,7 @@
               "artifact": {
                 "size": 94519,
                 "MD5": "36d373a9cd6cad9b35db9f984c6b4bbb",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm-util/9.7.1/asm-util-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm-util/9.7.1/asm-util-9.7.1.jar"
               }
             },
             {
@@ -2228,7 +2228,7 @@
               "artifact": {
                 "size": 1494834,
                 "MD5": "991ca8be2c408fe19eb64014d8a18243",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar"
               }
             },
             {
@@ -2238,7 +2238,7 @@
               "artifact": {
                 "size": 404386,
                 "MD5": "7e9aa0ed0b7853baa3347c3364e34203",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/net/fabricmc/intermediary/1.16.3/intermediary-1.16.3.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/net/fabricmc/intermediary/1.16.3/intermediary-1.16.3.jar"
               }
             }
           ]
@@ -2268,7 +2268,7 @@
           "artifact": {
             "size": 1387408,
             "MD5": "239d59118dec4324672b3d9e9d75efef",
-            "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/net/fabricmc/fabric-loader/0.16.10/fabric-loader-0.16.10.jar"
+            "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/net/fabricmc/fabric-loader/0.16.10/fabric-loader-0.16.10.jar"
           },
           "subModules": [
             {
@@ -2288,7 +2288,7 @@
               "artifact": {
                 "size": 126093,
                 "MD5": "e2cdd32d198ad31427d298eee9d39d8d",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm/9.7.1/asm-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm/9.7.1/asm-9.7.1.jar"
               }
             },
             {
@@ -2298,7 +2298,7 @@
               "artifact": {
                 "size": 35126,
                 "MD5": "4cd9e7178dfb85371bba3077e40cd514",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm-analysis/9.7.1/asm-analysis-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm-analysis/9.7.1/asm-analysis-9.7.1.jar"
               }
             },
             {
@@ -2308,7 +2308,7 @@
               "artifact": {
                 "size": 73459,
                 "MD5": "8344aea3c8b7d707e9d35a62710e77c9",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm-commons/9.7.1/asm-commons-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm-commons/9.7.1/asm-commons-9.7.1.jar"
               }
             },
             {
@@ -2318,7 +2318,7 @@
               "artifact": {
                 "size": 51939,
                 "MD5": "e85029f613b6469989cc7cf53fe06b74",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm-tree/9.7.1/asm-tree-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm-tree/9.7.1/asm-tree-9.7.1.jar"
               }
             },
             {
@@ -2328,7 +2328,7 @@
               "artifact": {
                 "size": 94519,
                 "MD5": "36d373a9cd6cad9b35db9f984c6b4bbb",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm-util/9.7.1/asm-util-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm-util/9.7.1/asm-util-9.7.1.jar"
               }
             },
             {
@@ -2338,7 +2338,7 @@
               "artifact": {
                 "size": 1494834,
                 "MD5": "991ca8be2c408fe19eb64014d8a18243",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar"
               }
             },
             {
@@ -2348,7 +2348,7 @@
               "artifact": {
                 "size": 406368,
                 "MD5": "9f33b23cfb40c8b0cd196942829a65b7",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/net/fabricmc/intermediary/1.16.4/intermediary-1.16.4.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/net/fabricmc/intermediary/1.16.4/intermediary-1.16.4.jar"
               }
             }
           ]
@@ -2378,7 +2378,7 @@
           "artifact": {
             "size": 1387408,
             "MD5": "239d59118dec4324672b3d9e9d75efef",
-            "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/net/fabricmc/fabric-loader/0.16.10/fabric-loader-0.16.10.jar"
+            "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/net/fabricmc/fabric-loader/0.16.10/fabric-loader-0.16.10.jar"
           },
           "subModules": [
             {
@@ -2398,7 +2398,7 @@
               "artifact": {
                 "size": 126093,
                 "MD5": "e2cdd32d198ad31427d298eee9d39d8d",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm/9.7.1/asm-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm/9.7.1/asm-9.7.1.jar"
               }
             },
             {
@@ -2408,7 +2408,7 @@
               "artifact": {
                 "size": 35126,
                 "MD5": "4cd9e7178dfb85371bba3077e40cd514",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm-analysis/9.7.1/asm-analysis-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm-analysis/9.7.1/asm-analysis-9.7.1.jar"
               }
             },
             {
@@ -2418,7 +2418,7 @@
               "artifact": {
                 "size": 73459,
                 "MD5": "8344aea3c8b7d707e9d35a62710e77c9",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm-commons/9.7.1/asm-commons-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm-commons/9.7.1/asm-commons-9.7.1.jar"
               }
             },
             {
@@ -2428,7 +2428,7 @@
               "artifact": {
                 "size": 51939,
                 "MD5": "e85029f613b6469989cc7cf53fe06b74",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm-tree/9.7.1/asm-tree-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm-tree/9.7.1/asm-tree-9.7.1.jar"
               }
             },
             {
@@ -2438,7 +2438,7 @@
               "artifact": {
                 "size": 94519,
                 "MD5": "36d373a9cd6cad9b35db9f984c6b4bbb",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm-util/9.7.1/asm-util-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm-util/9.7.1/asm-util-9.7.1.jar"
               }
             },
             {
@@ -2448,7 +2448,7 @@
               "artifact": {
                 "size": 1494834,
                 "MD5": "991ca8be2c408fe19eb64014d8a18243",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar"
               }
             },
             {
@@ -2458,7 +2458,7 @@
               "artifact": {
                 "size": 406376,
                 "MD5": "abadf31a3b1b8b128cde5debcee93686",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/net/fabricmc/intermediary/1.16.5/intermediary-1.16.5.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/net/fabricmc/intermediary/1.16.5/intermediary-1.16.5.jar"
               }
             }
           ]
@@ -2488,7 +2488,7 @@
           "artifact": {
             "size": 1387408,
             "MD5": "239d59118dec4324672b3d9e9d75efef",
-            "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/net/fabricmc/fabric-loader/0.16.10/fabric-loader-0.16.10.jar"
+            "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/net/fabricmc/fabric-loader/0.16.10/fabric-loader-0.16.10.jar"
           },
           "subModules": [
             {
@@ -2508,7 +2508,7 @@
               "artifact": {
                 "size": 126093,
                 "MD5": "e2cdd32d198ad31427d298eee9d39d8d",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm/9.7.1/asm-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm/9.7.1/asm-9.7.1.jar"
               }
             },
             {
@@ -2518,7 +2518,7 @@
               "artifact": {
                 "size": 35126,
                 "MD5": "4cd9e7178dfb85371bba3077e40cd514",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm-analysis/9.7.1/asm-analysis-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm-analysis/9.7.1/asm-analysis-9.7.1.jar"
               }
             },
             {
@@ -2528,7 +2528,7 @@
               "artifact": {
                 "size": 73459,
                 "MD5": "8344aea3c8b7d707e9d35a62710e77c9",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm-commons/9.7.1/asm-commons-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm-commons/9.7.1/asm-commons-9.7.1.jar"
               }
             },
             {
@@ -2538,7 +2538,7 @@
               "artifact": {
                 "size": 51939,
                 "MD5": "e85029f613b6469989cc7cf53fe06b74",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm-tree/9.7.1/asm-tree-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm-tree/9.7.1/asm-tree-9.7.1.jar"
               }
             },
             {
@@ -2548,7 +2548,7 @@
               "artifact": {
                 "size": 94519,
                 "MD5": "36d373a9cd6cad9b35db9f984c6b4bbb",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm-util/9.7.1/asm-util-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm-util/9.7.1/asm-util-9.7.1.jar"
               }
             },
             {
@@ -2558,7 +2558,7 @@
               "artifact": {
                 "size": 1494834,
                 "MD5": "991ca8be2c408fe19eb64014d8a18243",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar"
               }
             },
             {
@@ -2568,7 +2568,7 @@
               "artifact": {
                 "size": 457598,
                 "MD5": "3ea8704ada3179fa4ebcfc002c538d3c",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/net/fabricmc/intermediary/1.17/intermediary-1.17.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/net/fabricmc/intermediary/1.17/intermediary-1.17.jar"
               }
             }
           ]
@@ -2598,7 +2598,7 @@
           "artifact": {
             "size": 1387408,
             "MD5": "239d59118dec4324672b3d9e9d75efef",
-            "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/net/fabricmc/fabric-loader/0.16.10/fabric-loader-0.16.10.jar"
+            "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/net/fabricmc/fabric-loader/0.16.10/fabric-loader-0.16.10.jar"
           },
           "subModules": [
             {
@@ -2618,7 +2618,7 @@
               "artifact": {
                 "size": 126093,
                 "MD5": "e2cdd32d198ad31427d298eee9d39d8d",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm/9.7.1/asm-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm/9.7.1/asm-9.7.1.jar"
               }
             },
             {
@@ -2628,7 +2628,7 @@
               "artifact": {
                 "size": 35126,
                 "MD5": "4cd9e7178dfb85371bba3077e40cd514",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm-analysis/9.7.1/asm-analysis-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm-analysis/9.7.1/asm-analysis-9.7.1.jar"
               }
             },
             {
@@ -2638,7 +2638,7 @@
               "artifact": {
                 "size": 73459,
                 "MD5": "8344aea3c8b7d707e9d35a62710e77c9",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm-commons/9.7.1/asm-commons-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm-commons/9.7.1/asm-commons-9.7.1.jar"
               }
             },
             {
@@ -2648,7 +2648,7 @@
               "artifact": {
                 "size": 51939,
                 "MD5": "e85029f613b6469989cc7cf53fe06b74",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm-tree/9.7.1/asm-tree-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm-tree/9.7.1/asm-tree-9.7.1.jar"
               }
             },
             {
@@ -2658,7 +2658,7 @@
               "artifact": {
                 "size": 94519,
                 "MD5": "36d373a9cd6cad9b35db9f984c6b4bbb",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm-util/9.7.1/asm-util-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm-util/9.7.1/asm-util-9.7.1.jar"
               }
             },
             {
@@ -2668,7 +2668,7 @@
               "artifact": {
                 "size": 1494834,
                 "MD5": "991ca8be2c408fe19eb64014d8a18243",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar"
               }
             },
             {
@@ -2678,7 +2678,7 @@
               "artifact": {
                 "size": 458307,
                 "MD5": "472e0edbe2b0cbcb62251b74df08fba4",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/net/fabricmc/intermediary/1.17.1/intermediary-1.17.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/net/fabricmc/intermediary/1.17.1/intermediary-1.17.1.jar"
               }
             }
           ]
@@ -2708,7 +2708,7 @@
           "artifact": {
             "size": 1387408,
             "MD5": "239d59118dec4324672b3d9e9d75efef",
-            "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/net/fabricmc/fabric-loader/0.16.10/fabric-loader-0.16.10.jar"
+            "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/net/fabricmc/fabric-loader/0.16.10/fabric-loader-0.16.10.jar"
           },
           "subModules": [
             {
@@ -2728,7 +2728,7 @@
               "artifact": {
                 "size": 126093,
                 "MD5": "e2cdd32d198ad31427d298eee9d39d8d",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm/9.7.1/asm-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm/9.7.1/asm-9.7.1.jar"
               }
             },
             {
@@ -2738,7 +2738,7 @@
               "artifact": {
                 "size": 35126,
                 "MD5": "4cd9e7178dfb85371bba3077e40cd514",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm-analysis/9.7.1/asm-analysis-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm-analysis/9.7.1/asm-analysis-9.7.1.jar"
               }
             },
             {
@@ -2748,7 +2748,7 @@
               "artifact": {
                 "size": 73459,
                 "MD5": "8344aea3c8b7d707e9d35a62710e77c9",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm-commons/9.7.1/asm-commons-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm-commons/9.7.1/asm-commons-9.7.1.jar"
               }
             },
             {
@@ -2758,7 +2758,7 @@
               "artifact": {
                 "size": 51939,
                 "MD5": "e85029f613b6469989cc7cf53fe06b74",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm-tree/9.7.1/asm-tree-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm-tree/9.7.1/asm-tree-9.7.1.jar"
               }
             },
             {
@@ -2768,7 +2768,7 @@
               "artifact": {
                 "size": 94519,
                 "MD5": "36d373a9cd6cad9b35db9f984c6b4bbb",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm-util/9.7.1/asm-util-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm-util/9.7.1/asm-util-9.7.1.jar"
               }
             },
             {
@@ -2778,7 +2778,7 @@
               "artifact": {
                 "size": 1494834,
                 "MD5": "991ca8be2c408fe19eb64014d8a18243",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar"
               }
             },
             {
@@ -2788,7 +2788,7 @@
               "artifact": {
                 "size": 473381,
                 "MD5": "94925cab26464c2a746ebad596962e74",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/net/fabricmc/intermediary/1.18/intermediary-1.18.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/net/fabricmc/intermediary/1.18/intermediary-1.18.jar"
               }
             }
           ]
@@ -2818,7 +2818,7 @@
           "artifact": {
             "size": 1387408,
             "MD5": "239d59118dec4324672b3d9e9d75efef",
-            "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/net/fabricmc/fabric-loader/0.16.10/fabric-loader-0.16.10.jar"
+            "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/net/fabricmc/fabric-loader/0.16.10/fabric-loader-0.16.10.jar"
           },
           "subModules": [
             {
@@ -2838,7 +2838,7 @@
               "artifact": {
                 "size": 126093,
                 "MD5": "e2cdd32d198ad31427d298eee9d39d8d",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm/9.7.1/asm-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm/9.7.1/asm-9.7.1.jar"
               }
             },
             {
@@ -2848,7 +2848,7 @@
               "artifact": {
                 "size": 35126,
                 "MD5": "4cd9e7178dfb85371bba3077e40cd514",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm-analysis/9.7.1/asm-analysis-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm-analysis/9.7.1/asm-analysis-9.7.1.jar"
               }
             },
             {
@@ -2858,7 +2858,7 @@
               "artifact": {
                 "size": 73459,
                 "MD5": "8344aea3c8b7d707e9d35a62710e77c9",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm-commons/9.7.1/asm-commons-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm-commons/9.7.1/asm-commons-9.7.1.jar"
               }
             },
             {
@@ -2868,7 +2868,7 @@
               "artifact": {
                 "size": 51939,
                 "MD5": "e85029f613b6469989cc7cf53fe06b74",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm-tree/9.7.1/asm-tree-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm-tree/9.7.1/asm-tree-9.7.1.jar"
               }
             },
             {
@@ -2878,7 +2878,7 @@
               "artifact": {
                 "size": 94519,
                 "MD5": "36d373a9cd6cad9b35db9f984c6b4bbb",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm-util/9.7.1/asm-util-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm-util/9.7.1/asm-util-9.7.1.jar"
               }
             },
             {
@@ -2888,7 +2888,7 @@
               "artifact": {
                 "size": 1494834,
                 "MD5": "991ca8be2c408fe19eb64014d8a18243",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar"
               }
             },
             {
@@ -2898,7 +2898,7 @@
               "artifact": {
                 "size": 473455,
                 "MD5": "4f5d88fd17d4cbd7dcf376bb105389f0",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/net/fabricmc/intermediary/1.18.1/intermediary-1.18.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/net/fabricmc/intermediary/1.18.1/intermediary-1.18.1.jar"
               }
             }
           ]
@@ -2928,7 +2928,7 @@
           "artifact": {
             "size": 1387408,
             "MD5": "239d59118dec4324672b3d9e9d75efef",
-            "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/net/fabricmc/fabric-loader/0.16.10/fabric-loader-0.16.10.jar"
+            "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/net/fabricmc/fabric-loader/0.16.10/fabric-loader-0.16.10.jar"
           },
           "subModules": [
             {
@@ -2948,7 +2948,7 @@
               "artifact": {
                 "size": 126093,
                 "MD5": "e2cdd32d198ad31427d298eee9d39d8d",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm/9.7.1/asm-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm/9.7.1/asm-9.7.1.jar"
               }
             },
             {
@@ -2958,7 +2958,7 @@
               "artifact": {
                 "size": 35126,
                 "MD5": "4cd9e7178dfb85371bba3077e40cd514",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm-analysis/9.7.1/asm-analysis-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm-analysis/9.7.1/asm-analysis-9.7.1.jar"
               }
             },
             {
@@ -2968,7 +2968,7 @@
               "artifact": {
                 "size": 73459,
                 "MD5": "8344aea3c8b7d707e9d35a62710e77c9",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm-commons/9.7.1/asm-commons-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm-commons/9.7.1/asm-commons-9.7.1.jar"
               }
             },
             {
@@ -2978,7 +2978,7 @@
               "artifact": {
                 "size": 51939,
                 "MD5": "e85029f613b6469989cc7cf53fe06b74",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm-tree/9.7.1/asm-tree-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm-tree/9.7.1/asm-tree-9.7.1.jar"
               }
             },
             {
@@ -2988,7 +2988,7 @@
               "artifact": {
                 "size": 94519,
                 "MD5": "36d373a9cd6cad9b35db9f984c6b4bbb",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm-util/9.7.1/asm-util-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm-util/9.7.1/asm-util-9.7.1.jar"
               }
             },
             {
@@ -2998,7 +2998,7 @@
               "artifact": {
                 "size": 1494834,
                 "MD5": "991ca8be2c408fe19eb64014d8a18243",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar"
               }
             },
             {
@@ -3008,7 +3008,7 @@
               "artifact": {
                 "size": 481558,
                 "MD5": "d299d8bce389df3894884b6515b5894a",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/net/fabricmc/intermediary/1.18.2/intermediary-1.18.2.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/net/fabricmc/intermediary/1.18.2/intermediary-1.18.2.jar"
               }
             }
           ]
@@ -3038,7 +3038,7 @@
           "artifact": {
             "size": 1387408,
             "MD5": "239d59118dec4324672b3d9e9d75efef",
-            "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/net/fabricmc/fabric-loader/0.16.10/fabric-loader-0.16.10.jar"
+            "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/net/fabricmc/fabric-loader/0.16.10/fabric-loader-0.16.10.jar"
           },
           "subModules": [
             {
@@ -3058,7 +3058,7 @@
               "artifact": {
                 "size": 126093,
                 "MD5": "e2cdd32d198ad31427d298eee9d39d8d",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm/9.7.1/asm-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm/9.7.1/asm-9.7.1.jar"
               }
             },
             {
@@ -3068,7 +3068,7 @@
               "artifact": {
                 "size": 35126,
                 "MD5": "4cd9e7178dfb85371bba3077e40cd514",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm-analysis/9.7.1/asm-analysis-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm-analysis/9.7.1/asm-analysis-9.7.1.jar"
               }
             },
             {
@@ -3078,7 +3078,7 @@
               "artifact": {
                 "size": 73459,
                 "MD5": "8344aea3c8b7d707e9d35a62710e77c9",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm-commons/9.7.1/asm-commons-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm-commons/9.7.1/asm-commons-9.7.1.jar"
               }
             },
             {
@@ -3088,7 +3088,7 @@
               "artifact": {
                 "size": 51939,
                 "MD5": "e85029f613b6469989cc7cf53fe06b74",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm-tree/9.7.1/asm-tree-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm-tree/9.7.1/asm-tree-9.7.1.jar"
               }
             },
             {
@@ -3098,7 +3098,7 @@
               "artifact": {
                 "size": 94519,
                 "MD5": "36d373a9cd6cad9b35db9f984c6b4bbb",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm-util/9.7.1/asm-util-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm-util/9.7.1/asm-util-9.7.1.jar"
               }
             },
             {
@@ -3108,7 +3108,7 @@
               "artifact": {
                 "size": 1494834,
                 "MD5": "991ca8be2c408fe19eb64014d8a18243",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar"
               }
             },
             {
@@ -3118,7 +3118,7 @@
               "artifact": {
                 "size": 510312,
                 "MD5": "2c4c4a2bc80f37989b7b0997068d31ef",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/net/fabricmc/intermediary/1.19/intermediary-1.19.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/net/fabricmc/intermediary/1.19/intermediary-1.19.jar"
               }
             }
           ]
@@ -3148,7 +3148,7 @@
           "artifact": {
             "size": 1387408,
             "MD5": "239d59118dec4324672b3d9e9d75efef",
-            "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/net/fabricmc/fabric-loader/0.16.10/fabric-loader-0.16.10.jar"
+            "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/net/fabricmc/fabric-loader/0.16.10/fabric-loader-0.16.10.jar"
           },
           "subModules": [
             {
@@ -3168,7 +3168,7 @@
               "artifact": {
                 "size": 126093,
                 "MD5": "e2cdd32d198ad31427d298eee9d39d8d",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm/9.7.1/asm-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm/9.7.1/asm-9.7.1.jar"
               }
             },
             {
@@ -3178,7 +3178,7 @@
               "artifact": {
                 "size": 35126,
                 "MD5": "4cd9e7178dfb85371bba3077e40cd514",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm-analysis/9.7.1/asm-analysis-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm-analysis/9.7.1/asm-analysis-9.7.1.jar"
               }
             },
             {
@@ -3188,7 +3188,7 @@
               "artifact": {
                 "size": 73459,
                 "MD5": "8344aea3c8b7d707e9d35a62710e77c9",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm-commons/9.7.1/asm-commons-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm-commons/9.7.1/asm-commons-9.7.1.jar"
               }
             },
             {
@@ -3198,7 +3198,7 @@
               "artifact": {
                 "size": 51939,
                 "MD5": "e85029f613b6469989cc7cf53fe06b74",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm-tree/9.7.1/asm-tree-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm-tree/9.7.1/asm-tree-9.7.1.jar"
               }
             },
             {
@@ -3208,7 +3208,7 @@
               "artifact": {
                 "size": 94519,
                 "MD5": "36d373a9cd6cad9b35db9f984c6b4bbb",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm-util/9.7.1/asm-util-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm-util/9.7.1/asm-util-9.7.1.jar"
               }
             },
             {
@@ -3218,7 +3218,7 @@
               "artifact": {
                 "size": 1494834,
                 "MD5": "991ca8be2c408fe19eb64014d8a18243",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar"
               }
             },
             {
@@ -3228,7 +3228,7 @@
               "artifact": {
                 "size": 519459,
                 "MD5": "6b557eaf1143e501c469eaed259ee125",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/net/fabricmc/intermediary/1.19.1/intermediary-1.19.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/net/fabricmc/intermediary/1.19.1/intermediary-1.19.1.jar"
               }
             }
           ]
@@ -3258,7 +3258,7 @@
           "artifact": {
             "size": 1387408,
             "MD5": "239d59118dec4324672b3d9e9d75efef",
-            "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/net/fabricmc/fabric-loader/0.16.10/fabric-loader-0.16.10.jar"
+            "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/net/fabricmc/fabric-loader/0.16.10/fabric-loader-0.16.10.jar"
           },
           "subModules": [
             {
@@ -3278,7 +3278,7 @@
               "artifact": {
                 "size": 126093,
                 "MD5": "e2cdd32d198ad31427d298eee9d39d8d",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm/9.7.1/asm-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm/9.7.1/asm-9.7.1.jar"
               }
             },
             {
@@ -3288,7 +3288,7 @@
               "artifact": {
                 "size": 35126,
                 "MD5": "4cd9e7178dfb85371bba3077e40cd514",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm-analysis/9.7.1/asm-analysis-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm-analysis/9.7.1/asm-analysis-9.7.1.jar"
               }
             },
             {
@@ -3298,7 +3298,7 @@
               "artifact": {
                 "size": 73459,
                 "MD5": "8344aea3c8b7d707e9d35a62710e77c9",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm-commons/9.7.1/asm-commons-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm-commons/9.7.1/asm-commons-9.7.1.jar"
               }
             },
             {
@@ -3308,7 +3308,7 @@
               "artifact": {
                 "size": 51939,
                 "MD5": "e85029f613b6469989cc7cf53fe06b74",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm-tree/9.7.1/asm-tree-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm-tree/9.7.1/asm-tree-9.7.1.jar"
               }
             },
             {
@@ -3318,7 +3318,7 @@
               "artifact": {
                 "size": 94519,
                 "MD5": "36d373a9cd6cad9b35db9f984c6b4bbb",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm-util/9.7.1/asm-util-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm-util/9.7.1/asm-util-9.7.1.jar"
               }
             },
             {
@@ -3328,7 +3328,7 @@
               "artifact": {
                 "size": 1494834,
                 "MD5": "991ca8be2c408fe19eb64014d8a18243",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar"
               }
             },
             {
@@ -3338,7 +3338,7 @@
               "artifact": {
                 "size": 519553,
                 "MD5": "ef08f4c5382fb6e44d3001c7f9b33f4b",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/net/fabricmc/intermediary/1.19.2/intermediary-1.19.2.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/net/fabricmc/intermediary/1.19.2/intermediary-1.19.2.jar"
               }
             }
           ]
@@ -3368,7 +3368,7 @@
           "artifact": {
             "size": 1387408,
             "MD5": "239d59118dec4324672b3d9e9d75efef",
-            "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/net/fabricmc/fabric-loader/0.16.10/fabric-loader-0.16.10.jar"
+            "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/net/fabricmc/fabric-loader/0.16.10/fabric-loader-0.16.10.jar"
           },
           "subModules": [
             {
@@ -3388,7 +3388,7 @@
               "artifact": {
                 "size": 126093,
                 "MD5": "e2cdd32d198ad31427d298eee9d39d8d",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm/9.7.1/asm-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm/9.7.1/asm-9.7.1.jar"
               }
             },
             {
@@ -3398,7 +3398,7 @@
               "artifact": {
                 "size": 35126,
                 "MD5": "4cd9e7178dfb85371bba3077e40cd514",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm-analysis/9.7.1/asm-analysis-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm-analysis/9.7.1/asm-analysis-9.7.1.jar"
               }
             },
             {
@@ -3408,7 +3408,7 @@
               "artifact": {
                 "size": 73459,
                 "MD5": "8344aea3c8b7d707e9d35a62710e77c9",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm-commons/9.7.1/asm-commons-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm-commons/9.7.1/asm-commons-9.7.1.jar"
               }
             },
             {
@@ -3418,7 +3418,7 @@
               "artifact": {
                 "size": 51939,
                 "MD5": "e85029f613b6469989cc7cf53fe06b74",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm-tree/9.7.1/asm-tree-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm-tree/9.7.1/asm-tree-9.7.1.jar"
               }
             },
             {
@@ -3428,7 +3428,7 @@
               "artifact": {
                 "size": 94519,
                 "MD5": "36d373a9cd6cad9b35db9f984c6b4bbb",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm-util/9.7.1/asm-util-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm-util/9.7.1/asm-util-9.7.1.jar"
               }
             },
             {
@@ -3438,7 +3438,7 @@
               "artifact": {
                 "size": 1494834,
                 "MD5": "991ca8be2c408fe19eb64014d8a18243",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar"
               }
             },
             {
@@ -3448,7 +3448,7 @@
               "artifact": {
                 "size": 540855,
                 "MD5": "d10ea75214d9700f915c0d9b239d2ca0",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/net/fabricmc/intermediary/1.19.3/intermediary-1.19.3.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/net/fabricmc/intermediary/1.19.3/intermediary-1.19.3.jar"
               }
             }
           ]
@@ -3478,7 +3478,7 @@
           "artifact": {
             "size": 1387408,
             "MD5": "239d59118dec4324672b3d9e9d75efef",
-            "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/net/fabricmc/fabric-loader/0.16.10/fabric-loader-0.16.10.jar"
+            "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/net/fabricmc/fabric-loader/0.16.10/fabric-loader-0.16.10.jar"
           },
           "subModules": [
             {
@@ -3498,7 +3498,7 @@
               "artifact": {
                 "size": 126093,
                 "MD5": "e2cdd32d198ad31427d298eee9d39d8d",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm/9.7.1/asm-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm/9.7.1/asm-9.7.1.jar"
               }
             },
             {
@@ -3508,7 +3508,7 @@
               "artifact": {
                 "size": 35126,
                 "MD5": "4cd9e7178dfb85371bba3077e40cd514",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm-analysis/9.7.1/asm-analysis-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm-analysis/9.7.1/asm-analysis-9.7.1.jar"
               }
             },
             {
@@ -3518,7 +3518,7 @@
               "artifact": {
                 "size": 73459,
                 "MD5": "8344aea3c8b7d707e9d35a62710e77c9",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm-commons/9.7.1/asm-commons-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm-commons/9.7.1/asm-commons-9.7.1.jar"
               }
             },
             {
@@ -3528,7 +3528,7 @@
               "artifact": {
                 "size": 51939,
                 "MD5": "e85029f613b6469989cc7cf53fe06b74",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm-tree/9.7.1/asm-tree-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm-tree/9.7.1/asm-tree-9.7.1.jar"
               }
             },
             {
@@ -3538,7 +3538,7 @@
               "artifact": {
                 "size": 94519,
                 "MD5": "36d373a9cd6cad9b35db9f984c6b4bbb",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm-util/9.7.1/asm-util-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm-util/9.7.1/asm-util-9.7.1.jar"
               }
             },
             {
@@ -3548,7 +3548,7 @@
               "artifact": {
                 "size": 1494834,
                 "MD5": "991ca8be2c408fe19eb64014d8a18243",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar"
               }
             },
             {
@@ -3558,7 +3558,7 @@
               "artifact": {
                 "size": 561002,
                 "MD5": "3152114bacff68951f30cfa891fdba24",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/net/fabricmc/intermediary/1.19.4/intermediary-1.19.4.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/net/fabricmc/intermediary/1.19.4/intermediary-1.19.4.jar"
               }
             }
           ]
@@ -3588,7 +3588,7 @@
           "artifact": {
             "size": 1387408,
             "MD5": "239d59118dec4324672b3d9e9d75efef",
-            "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/net/fabricmc/fabric-loader/0.16.10/fabric-loader-0.16.10.jar"
+            "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/net/fabricmc/fabric-loader/0.16.10/fabric-loader-0.16.10.jar"
           },
           "subModules": [
             {
@@ -3608,7 +3608,7 @@
               "artifact": {
                 "size": 126093,
                 "MD5": "e2cdd32d198ad31427d298eee9d39d8d",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm/9.7.1/asm-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm/9.7.1/asm-9.7.1.jar"
               }
             },
             {
@@ -3618,7 +3618,7 @@
               "artifact": {
                 "size": 35126,
                 "MD5": "4cd9e7178dfb85371bba3077e40cd514",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm-analysis/9.7.1/asm-analysis-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm-analysis/9.7.1/asm-analysis-9.7.1.jar"
               }
             },
             {
@@ -3628,7 +3628,7 @@
               "artifact": {
                 "size": 73459,
                 "MD5": "8344aea3c8b7d707e9d35a62710e77c9",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm-commons/9.7.1/asm-commons-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm-commons/9.7.1/asm-commons-9.7.1.jar"
               }
             },
             {
@@ -3638,7 +3638,7 @@
               "artifact": {
                 "size": 51939,
                 "MD5": "e85029f613b6469989cc7cf53fe06b74",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm-tree/9.7.1/asm-tree-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm-tree/9.7.1/asm-tree-9.7.1.jar"
               }
             },
             {
@@ -3648,7 +3648,7 @@
               "artifact": {
                 "size": 94519,
                 "MD5": "36d373a9cd6cad9b35db9f984c6b4bbb",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm-util/9.7.1/asm-util-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm-util/9.7.1/asm-util-9.7.1.jar"
               }
             },
             {
@@ -3658,7 +3658,7 @@
               "artifact": {
                 "size": 1494834,
                 "MD5": "991ca8be2c408fe19eb64014d8a18243",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar"
               }
             },
             {
@@ -3668,7 +3668,7 @@
               "artifact": {
                 "size": 573310,
                 "MD5": "81bb5461c1872a4cc819946245b8efda",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/net/fabricmc/intermediary/1.20/intermediary-1.20.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/net/fabricmc/intermediary/1.20/intermediary-1.20.jar"
               }
             }
           ]
@@ -3698,7 +3698,7 @@
           "artifact": {
             "size": 1387408,
             "MD5": "239d59118dec4324672b3d9e9d75efef",
-            "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/net/fabricmc/fabric-loader/0.16.10/fabric-loader-0.16.10.jar"
+            "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/net/fabricmc/fabric-loader/0.16.10/fabric-loader-0.16.10.jar"
           },
           "subModules": [
             {
@@ -3718,7 +3718,7 @@
               "artifact": {
                 "size": 126093,
                 "MD5": "e2cdd32d198ad31427d298eee9d39d8d",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm/9.7.1/asm-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm/9.7.1/asm-9.7.1.jar"
               }
             },
             {
@@ -3728,7 +3728,7 @@
               "artifact": {
                 "size": 35126,
                 "MD5": "4cd9e7178dfb85371bba3077e40cd514",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm-analysis/9.7.1/asm-analysis-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm-analysis/9.7.1/asm-analysis-9.7.1.jar"
               }
             },
             {
@@ -3738,7 +3738,7 @@
               "artifact": {
                 "size": 73459,
                 "MD5": "8344aea3c8b7d707e9d35a62710e77c9",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm-commons/9.7.1/asm-commons-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm-commons/9.7.1/asm-commons-9.7.1.jar"
               }
             },
             {
@@ -3748,7 +3748,7 @@
               "artifact": {
                 "size": 51939,
                 "MD5": "e85029f613b6469989cc7cf53fe06b74",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm-tree/9.7.1/asm-tree-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm-tree/9.7.1/asm-tree-9.7.1.jar"
               }
             },
             {
@@ -3758,7 +3758,7 @@
               "artifact": {
                 "size": 94519,
                 "MD5": "36d373a9cd6cad9b35db9f984c6b4bbb",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm-util/9.7.1/asm-util-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm-util/9.7.1/asm-util-9.7.1.jar"
               }
             },
             {
@@ -3768,7 +3768,7 @@
               "artifact": {
                 "size": 1494834,
                 "MD5": "991ca8be2c408fe19eb64014d8a18243",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar"
               }
             },
             {
@@ -3778,7 +3778,7 @@
               "artifact": {
                 "size": 573365,
                 "MD5": "3f4768ac751cac3418266d1d7aa15f55",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/net/fabricmc/intermediary/1.20.1/intermediary-1.20.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/net/fabricmc/intermediary/1.20.1/intermediary-1.20.1.jar"
               }
             }
           ]
@@ -3808,7 +3808,7 @@
           "artifact": {
             "size": 1387408,
             "MD5": "239d59118dec4324672b3d9e9d75efef",
-            "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/net/fabricmc/fabric-loader/0.16.10/fabric-loader-0.16.10.jar"
+            "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/net/fabricmc/fabric-loader/0.16.10/fabric-loader-0.16.10.jar"
           },
           "subModules": [
             {
@@ -3828,7 +3828,7 @@
               "artifact": {
                 "size": 126093,
                 "MD5": "e2cdd32d198ad31427d298eee9d39d8d",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm/9.7.1/asm-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm/9.7.1/asm-9.7.1.jar"
               }
             },
             {
@@ -3838,7 +3838,7 @@
               "artifact": {
                 "size": 35126,
                 "MD5": "4cd9e7178dfb85371bba3077e40cd514",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm-analysis/9.7.1/asm-analysis-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm-analysis/9.7.1/asm-analysis-9.7.1.jar"
               }
             },
             {
@@ -3848,7 +3848,7 @@
               "artifact": {
                 "size": 73459,
                 "MD5": "8344aea3c8b7d707e9d35a62710e77c9",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm-commons/9.7.1/asm-commons-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm-commons/9.7.1/asm-commons-9.7.1.jar"
               }
             },
             {
@@ -3858,7 +3858,7 @@
               "artifact": {
                 "size": 51939,
                 "MD5": "e85029f613b6469989cc7cf53fe06b74",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm-tree/9.7.1/asm-tree-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm-tree/9.7.1/asm-tree-9.7.1.jar"
               }
             },
             {
@@ -3868,7 +3868,7 @@
               "artifact": {
                 "size": 94519,
                 "MD5": "36d373a9cd6cad9b35db9f984c6b4bbb",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm-util/9.7.1/asm-util-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm-util/9.7.1/asm-util-9.7.1.jar"
               }
             },
             {
@@ -3878,7 +3878,7 @@
               "artifact": {
                 "size": 1494834,
                 "MD5": "991ca8be2c408fe19eb64014d8a18243",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar"
               }
             },
             {
@@ -3888,7 +3888,7 @@
               "artifact": {
                 "size": 586928,
                 "MD5": "a4022bf6812ba13e86b0fff43fb360d9",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/net/fabricmc/intermediary/1.20.2/intermediary-1.20.2.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/net/fabricmc/intermediary/1.20.2/intermediary-1.20.2.jar"
               }
             }
           ]
@@ -3918,7 +3918,7 @@
           "artifact": {
             "size": 1387408,
             "MD5": "239d59118dec4324672b3d9e9d75efef",
-            "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/net/fabricmc/fabric-loader/0.16.10/fabric-loader-0.16.10.jar"
+            "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/net/fabricmc/fabric-loader/0.16.10/fabric-loader-0.16.10.jar"
           },
           "subModules": [
             {
@@ -3938,7 +3938,7 @@
               "artifact": {
                 "size": 126093,
                 "MD5": "e2cdd32d198ad31427d298eee9d39d8d",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm/9.7.1/asm-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm/9.7.1/asm-9.7.1.jar"
               }
             },
             {
@@ -3948,7 +3948,7 @@
               "artifact": {
                 "size": 35126,
                 "MD5": "4cd9e7178dfb85371bba3077e40cd514",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm-analysis/9.7.1/asm-analysis-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm-analysis/9.7.1/asm-analysis-9.7.1.jar"
               }
             },
             {
@@ -3958,7 +3958,7 @@
               "artifact": {
                 "size": 73459,
                 "MD5": "8344aea3c8b7d707e9d35a62710e77c9",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm-commons/9.7.1/asm-commons-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm-commons/9.7.1/asm-commons-9.7.1.jar"
               }
             },
             {
@@ -3968,7 +3968,7 @@
               "artifact": {
                 "size": 51939,
                 "MD5": "e85029f613b6469989cc7cf53fe06b74",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm-tree/9.7.1/asm-tree-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm-tree/9.7.1/asm-tree-9.7.1.jar"
               }
             },
             {
@@ -3978,7 +3978,7 @@
               "artifact": {
                 "size": 94519,
                 "MD5": "36d373a9cd6cad9b35db9f984c6b4bbb",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm-util/9.7.1/asm-util-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm-util/9.7.1/asm-util-9.7.1.jar"
               }
             },
             {
@@ -3988,7 +3988,7 @@
               "artifact": {
                 "size": 1494834,
                 "MD5": "991ca8be2c408fe19eb64014d8a18243",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar"
               }
             },
             {
@@ -3998,7 +3998,7 @@
               "artifact": {
                 "size": 608319,
                 "MD5": "4e9313cb64673d478a45b856736f7e39",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/net/fabricmc/intermediary/1.20.3/intermediary-1.20.3.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/net/fabricmc/intermediary/1.20.3/intermediary-1.20.3.jar"
               }
             }
           ]
@@ -4028,7 +4028,7 @@
           "artifact": {
             "size": 1387408,
             "MD5": "239d59118dec4324672b3d9e9d75efef",
-            "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/net/fabricmc/fabric-loader/0.16.10/fabric-loader-0.16.10.jar"
+            "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/net/fabricmc/fabric-loader/0.16.10/fabric-loader-0.16.10.jar"
           },
           "subModules": [
             {
@@ -4048,7 +4048,7 @@
               "artifact": {
                 "size": 126093,
                 "MD5": "e2cdd32d198ad31427d298eee9d39d8d",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm/9.7.1/asm-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm/9.7.1/asm-9.7.1.jar"
               }
             },
             {
@@ -4058,7 +4058,7 @@
               "artifact": {
                 "size": 35126,
                 "MD5": "4cd9e7178dfb85371bba3077e40cd514",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm-analysis/9.7.1/asm-analysis-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm-analysis/9.7.1/asm-analysis-9.7.1.jar"
               }
             },
             {
@@ -4068,7 +4068,7 @@
               "artifact": {
                 "size": 73459,
                 "MD5": "8344aea3c8b7d707e9d35a62710e77c9",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm-commons/9.7.1/asm-commons-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm-commons/9.7.1/asm-commons-9.7.1.jar"
               }
             },
             {
@@ -4078,7 +4078,7 @@
               "artifact": {
                 "size": 51939,
                 "MD5": "e85029f613b6469989cc7cf53fe06b74",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm-tree/9.7.1/asm-tree-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm-tree/9.7.1/asm-tree-9.7.1.jar"
               }
             },
             {
@@ -4088,7 +4088,7 @@
               "artifact": {
                 "size": 94519,
                 "MD5": "36d373a9cd6cad9b35db9f984c6b4bbb",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm-util/9.7.1/asm-util-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm-util/9.7.1/asm-util-9.7.1.jar"
               }
             },
             {
@@ -4098,7 +4098,7 @@
               "artifact": {
                 "size": 1494834,
                 "MD5": "991ca8be2c408fe19eb64014d8a18243",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar"
               }
             },
             {
@@ -4108,7 +4108,7 @@
               "artifact": {
                 "size": 608319,
                 "MD5": "3a1cade1634c518db6147c9771686ea9",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/net/fabricmc/intermediary/1.20.4/intermediary-1.20.4.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/net/fabricmc/intermediary/1.20.4/intermediary-1.20.4.jar"
               }
             }
           ]
@@ -4138,7 +4138,7 @@
           "artifact": {
             "size": 1387408,
             "MD5": "239d59118dec4324672b3d9e9d75efef",
-            "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/net/fabricmc/fabric-loader/0.16.10/fabric-loader-0.16.10.jar"
+            "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/net/fabricmc/fabric-loader/0.16.10/fabric-loader-0.16.10.jar"
           },
           "subModules": [
             {
@@ -4158,7 +4158,7 @@
               "artifact": {
                 "size": 126093,
                 "MD5": "e2cdd32d198ad31427d298eee9d39d8d",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm/9.7.1/asm-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm/9.7.1/asm-9.7.1.jar"
               }
             },
             {
@@ -4168,7 +4168,7 @@
               "artifact": {
                 "size": 35126,
                 "MD5": "4cd9e7178dfb85371bba3077e40cd514",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm-analysis/9.7.1/asm-analysis-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm-analysis/9.7.1/asm-analysis-9.7.1.jar"
               }
             },
             {
@@ -4178,7 +4178,7 @@
               "artifact": {
                 "size": 73459,
                 "MD5": "8344aea3c8b7d707e9d35a62710e77c9",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm-commons/9.7.1/asm-commons-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm-commons/9.7.1/asm-commons-9.7.1.jar"
               }
             },
             {
@@ -4188,7 +4188,7 @@
               "artifact": {
                 "size": 51939,
                 "MD5": "e85029f613b6469989cc7cf53fe06b74",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm-tree/9.7.1/asm-tree-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm-tree/9.7.1/asm-tree-9.7.1.jar"
               }
             },
             {
@@ -4198,7 +4198,7 @@
               "artifact": {
                 "size": 94519,
                 "MD5": "36d373a9cd6cad9b35db9f984c6b4bbb",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm-util/9.7.1/asm-util-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm-util/9.7.1/asm-util-9.7.1.jar"
               }
             },
             {
@@ -4208,7 +4208,7 @@
               "artifact": {
                 "size": 1494834,
                 "MD5": "991ca8be2c408fe19eb64014d8a18243",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar"
               }
             },
             {
@@ -4218,7 +4218,7 @@
               "artifact": {
                 "size": 645922,
                 "MD5": "80d5a6f8c785e9c835dd5211db6d6a6f",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/net/fabricmc/intermediary/1.20.5/intermediary-1.20.5.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/net/fabricmc/intermediary/1.20.5/intermediary-1.20.5.jar"
               }
             }
           ]
@@ -4248,7 +4248,7 @@
           "artifact": {
             "size": 1387408,
             "MD5": "239d59118dec4324672b3d9e9d75efef",
-            "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/net/fabricmc/fabric-loader/0.16.10/fabric-loader-0.16.10.jar"
+            "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/net/fabricmc/fabric-loader/0.16.10/fabric-loader-0.16.10.jar"
           },
           "subModules": [
             {
@@ -4268,7 +4268,7 @@
               "artifact": {
                 "size": 126093,
                 "MD5": "e2cdd32d198ad31427d298eee9d39d8d",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm/9.7.1/asm-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm/9.7.1/asm-9.7.1.jar"
               }
             },
             {
@@ -4278,7 +4278,7 @@
               "artifact": {
                 "size": 35126,
                 "MD5": "4cd9e7178dfb85371bba3077e40cd514",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm-analysis/9.7.1/asm-analysis-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm-analysis/9.7.1/asm-analysis-9.7.1.jar"
               }
             },
             {
@@ -4288,7 +4288,7 @@
               "artifact": {
                 "size": 73459,
                 "MD5": "8344aea3c8b7d707e9d35a62710e77c9",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm-commons/9.7.1/asm-commons-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm-commons/9.7.1/asm-commons-9.7.1.jar"
               }
             },
             {
@@ -4298,7 +4298,7 @@
               "artifact": {
                 "size": 51939,
                 "MD5": "e85029f613b6469989cc7cf53fe06b74",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm-tree/9.7.1/asm-tree-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm-tree/9.7.1/asm-tree-9.7.1.jar"
               }
             },
             {
@@ -4308,7 +4308,7 @@
               "artifact": {
                 "size": 94519,
                 "MD5": "36d373a9cd6cad9b35db9f984c6b4bbb",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm-util/9.7.1/asm-util-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm-util/9.7.1/asm-util-9.7.1.jar"
               }
             },
             {
@@ -4318,7 +4318,7 @@
               "artifact": {
                 "size": 1494834,
                 "MD5": "991ca8be2c408fe19eb64014d8a18243",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar"
               }
             },
             {
@@ -4328,7 +4328,7 @@
               "artifact": {
                 "size": 645866,
                 "MD5": "f15d0e5260bfeccf2fdca0da114cac48",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/net/fabricmc/intermediary/1.20.6/intermediary-1.20.6.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/net/fabricmc/intermediary/1.20.6/intermediary-1.20.6.jar"
               }
             }
           ]
@@ -4358,7 +4358,7 @@
           "artifact": {
             "size": 1387408,
             "MD5": "239d59118dec4324672b3d9e9d75efef",
-            "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/net/fabricmc/fabric-loader/0.16.10/fabric-loader-0.16.10.jar"
+            "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/net/fabricmc/fabric-loader/0.16.10/fabric-loader-0.16.10.jar"
           },
           "subModules": [
             {
@@ -4378,7 +4378,7 @@
               "artifact": {
                 "size": 126093,
                 "MD5": "e2cdd32d198ad31427d298eee9d39d8d",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm/9.7.1/asm-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm/9.7.1/asm-9.7.1.jar"
               }
             },
             {
@@ -4388,7 +4388,7 @@
               "artifact": {
                 "size": 35126,
                 "MD5": "4cd9e7178dfb85371bba3077e40cd514",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm-analysis/9.7.1/asm-analysis-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm-analysis/9.7.1/asm-analysis-9.7.1.jar"
               }
             },
             {
@@ -4398,7 +4398,7 @@
               "artifact": {
                 "size": 73459,
                 "MD5": "8344aea3c8b7d707e9d35a62710e77c9",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm-commons/9.7.1/asm-commons-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm-commons/9.7.1/asm-commons-9.7.1.jar"
               }
             },
             {
@@ -4408,7 +4408,7 @@
               "artifact": {
                 "size": 51939,
                 "MD5": "e85029f613b6469989cc7cf53fe06b74",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm-tree/9.7.1/asm-tree-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm-tree/9.7.1/asm-tree-9.7.1.jar"
               }
             },
             {
@@ -4418,7 +4418,7 @@
               "artifact": {
                 "size": 94519,
                 "MD5": "36d373a9cd6cad9b35db9f984c6b4bbb",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm-util/9.7.1/asm-util-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm-util/9.7.1/asm-util-9.7.1.jar"
               }
             },
             {
@@ -4428,7 +4428,7 @@
               "artifact": {
                 "size": 1494834,
                 "MD5": "991ca8be2c408fe19eb64014d8a18243",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar"
               }
             },
             {
@@ -4438,7 +4438,7 @@
               "artifact": {
                 "size": 657632,
                 "MD5": "4698a01c8408c4033c8f24e199960b23",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/net/fabricmc/intermediary/1.21/intermediary-1.21.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/net/fabricmc/intermediary/1.21/intermediary-1.21.jar"
               }
             }
           ]
@@ -4468,7 +4468,7 @@
           "artifact": {
             "size": 1387408,
             "MD5": "239d59118dec4324672b3d9e9d75efef",
-            "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/net/fabricmc/fabric-loader/0.16.10/fabric-loader-0.16.10.jar"
+            "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/net/fabricmc/fabric-loader/0.16.10/fabric-loader-0.16.10.jar"
           },
           "subModules": [
             {
@@ -4488,7 +4488,7 @@
               "artifact": {
                 "size": 126093,
                 "MD5": "e2cdd32d198ad31427d298eee9d39d8d",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm/9.7.1/asm-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm/9.7.1/asm-9.7.1.jar"
               }
             },
             {
@@ -4498,7 +4498,7 @@
               "artifact": {
                 "size": 35126,
                 "MD5": "4cd9e7178dfb85371bba3077e40cd514",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm-analysis/9.7.1/asm-analysis-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm-analysis/9.7.1/asm-analysis-9.7.1.jar"
               }
             },
             {
@@ -4508,7 +4508,7 @@
               "artifact": {
                 "size": 73459,
                 "MD5": "8344aea3c8b7d707e9d35a62710e77c9",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm-commons/9.7.1/asm-commons-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm-commons/9.7.1/asm-commons-9.7.1.jar"
               }
             },
             {
@@ -4518,7 +4518,7 @@
               "artifact": {
                 "size": 51939,
                 "MD5": "e85029f613b6469989cc7cf53fe06b74",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm-tree/9.7.1/asm-tree-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm-tree/9.7.1/asm-tree-9.7.1.jar"
               }
             },
             {
@@ -4528,7 +4528,7 @@
               "artifact": {
                 "size": 94519,
                 "MD5": "36d373a9cd6cad9b35db9f984c6b4bbb",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm-util/9.7.1/asm-util-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm-util/9.7.1/asm-util-9.7.1.jar"
               }
             },
             {
@@ -4538,7 +4538,7 @@
               "artifact": {
                 "size": 1494834,
                 "MD5": "991ca8be2c408fe19eb64014d8a18243",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar"
               }
             },
             {
@@ -4548,7 +4548,7 @@
               "artifact": {
                 "size": 657725,
                 "MD5": "850be48a3406b9efdf8e64b1c2db97f8",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/net/fabricmc/intermediary/1.21.1/intermediary-1.21.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/net/fabricmc/intermediary/1.21.1/intermediary-1.21.1.jar"
               }
             }
           ]
@@ -4578,7 +4578,7 @@
           "artifact": {
             "size": 1387408,
             "MD5": "239d59118dec4324672b3d9e9d75efef",
-            "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/net/fabricmc/fabric-loader/0.16.10/fabric-loader-0.16.10.jar"
+            "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/net/fabricmc/fabric-loader/0.16.10/fabric-loader-0.16.10.jar"
           },
           "subModules": [
             {
@@ -4598,7 +4598,7 @@
               "artifact": {
                 "size": 126093,
                 "MD5": "e2cdd32d198ad31427d298eee9d39d8d",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm/9.7.1/asm-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm/9.7.1/asm-9.7.1.jar"
               }
             },
             {
@@ -4608,7 +4608,7 @@
               "artifact": {
                 "size": 35126,
                 "MD5": "4cd9e7178dfb85371bba3077e40cd514",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm-analysis/9.7.1/asm-analysis-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm-analysis/9.7.1/asm-analysis-9.7.1.jar"
               }
             },
             {
@@ -4618,7 +4618,7 @@
               "artifact": {
                 "size": 73459,
                 "MD5": "8344aea3c8b7d707e9d35a62710e77c9",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm-commons/9.7.1/asm-commons-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm-commons/9.7.1/asm-commons-9.7.1.jar"
               }
             },
             {
@@ -4628,7 +4628,7 @@
               "artifact": {
                 "size": 51939,
                 "MD5": "e85029f613b6469989cc7cf53fe06b74",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm-tree/9.7.1/asm-tree-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm-tree/9.7.1/asm-tree-9.7.1.jar"
               }
             },
             {
@@ -4638,7 +4638,7 @@
               "artifact": {
                 "size": 94519,
                 "MD5": "36d373a9cd6cad9b35db9f984c6b4bbb",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm-util/9.7.1/asm-util-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm-util/9.7.1/asm-util-9.7.1.jar"
               }
             },
             {
@@ -4648,7 +4648,7 @@
               "artifact": {
                 "size": 1494834,
                 "MD5": "991ca8be2c408fe19eb64014d8a18243",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar"
               }
             },
             {
@@ -4658,7 +4658,7 @@
               "artifact": {
                 "size": 693026,
                 "MD5": "dfc0e7fcbc9594ecaec4b25bf40ab8bd",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/net/fabricmc/intermediary/1.21.2/intermediary-1.21.2.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/net/fabricmc/intermediary/1.21.2/intermediary-1.21.2.jar"
               }
             }
           ]
@@ -4688,7 +4688,7 @@
           "artifact": {
             "size": 1387408,
             "MD5": "239d59118dec4324672b3d9e9d75efef",
-            "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/net/fabricmc/fabric-loader/0.16.10/fabric-loader-0.16.10.jar"
+            "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/net/fabricmc/fabric-loader/0.16.10/fabric-loader-0.16.10.jar"
           },
           "subModules": [
             {
@@ -4708,7 +4708,7 @@
               "artifact": {
                 "size": 126093,
                 "MD5": "e2cdd32d198ad31427d298eee9d39d8d",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm/9.7.1/asm-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm/9.7.1/asm-9.7.1.jar"
               }
             },
             {
@@ -4718,7 +4718,7 @@
               "artifact": {
                 "size": 35126,
                 "MD5": "4cd9e7178dfb85371bba3077e40cd514",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm-analysis/9.7.1/asm-analysis-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm-analysis/9.7.1/asm-analysis-9.7.1.jar"
               }
             },
             {
@@ -4728,7 +4728,7 @@
               "artifact": {
                 "size": 73459,
                 "MD5": "8344aea3c8b7d707e9d35a62710e77c9",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm-commons/9.7.1/asm-commons-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm-commons/9.7.1/asm-commons-9.7.1.jar"
               }
             },
             {
@@ -4738,7 +4738,7 @@
               "artifact": {
                 "size": 51939,
                 "MD5": "e85029f613b6469989cc7cf53fe06b74",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm-tree/9.7.1/asm-tree-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm-tree/9.7.1/asm-tree-9.7.1.jar"
               }
             },
             {
@@ -4748,7 +4748,7 @@
               "artifact": {
                 "size": 94519,
                 "MD5": "36d373a9cd6cad9b35db9f984c6b4bbb",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm-util/9.7.1/asm-util-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm-util/9.7.1/asm-util-9.7.1.jar"
               }
             },
             {
@@ -4758,7 +4758,7 @@
               "artifact": {
                 "size": 1494834,
                 "MD5": "991ca8be2c408fe19eb64014d8a18243",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar"
               }
             },
             {
@@ -4768,7 +4768,7 @@
               "artifact": {
                 "size": 693060,
                 "MD5": "bc6edae1133bf23325898da22d9eff90",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/net/fabricmc/intermediary/1.21.3/intermediary-1.21.3.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/net/fabricmc/intermediary/1.21.3/intermediary-1.21.3.jar"
               }
             }
           ]
@@ -4798,7 +4798,7 @@
           "artifact": {
             "size": 1387408,
             "MD5": "239d59118dec4324672b3d9e9d75efef",
-            "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/net/fabricmc/fabric-loader/0.16.10/fabric-loader-0.16.10.jar"
+            "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/net/fabricmc/fabric-loader/0.16.10/fabric-loader-0.16.10.jar"
           },
           "subModules": [
             {
@@ -4818,7 +4818,7 @@
               "artifact": {
                 "size": 126093,
                 "MD5": "e2cdd32d198ad31427d298eee9d39d8d",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm/9.7.1/asm-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm/9.7.1/asm-9.7.1.jar"
               }
             },
             {
@@ -4828,7 +4828,7 @@
               "artifact": {
                 "size": 35126,
                 "MD5": "4cd9e7178dfb85371bba3077e40cd514",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm-analysis/9.7.1/asm-analysis-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm-analysis/9.7.1/asm-analysis-9.7.1.jar"
               }
             },
             {
@@ -4838,7 +4838,7 @@
               "artifact": {
                 "size": 73459,
                 "MD5": "8344aea3c8b7d707e9d35a62710e77c9",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm-commons/9.7.1/asm-commons-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm-commons/9.7.1/asm-commons-9.7.1.jar"
               }
             },
             {
@@ -4848,7 +4848,7 @@
               "artifact": {
                 "size": 51939,
                 "MD5": "e85029f613b6469989cc7cf53fe06b74",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm-tree/9.7.1/asm-tree-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm-tree/9.7.1/asm-tree-9.7.1.jar"
               }
             },
             {
@@ -4858,7 +4858,7 @@
               "artifact": {
                 "size": 94519,
                 "MD5": "36d373a9cd6cad9b35db9f984c6b4bbb",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/org/ow2/asm/asm-util/9.7.1/asm-util-9.7.1.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/org/ow2/asm/asm-util/9.7.1/asm-util-9.7.1.jar"
               }
             },
             {
@@ -4868,7 +4868,7 @@
               "artifact": {
                 "size": 1494834,
                 "MD5": "991ca8be2c408fe19eb64014d8a18243",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar"
               }
             },
             {
@@ -4878,7 +4878,7 @@
               "artifact": {
                 "size": 701826,
                 "MD5": "d0f4187a62328d4a95f3428434efbd48",
-                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/repo/lib/net/fabricmc/intermediary/1.21.4/intermediary-1.21.4.jar"
+                "url": "https://raw.githubusercontent.com/Sebijo8/RoyalClient-Distro/net/fabricmc/intermediary/1.21.4/intermediary-1.21.4.jar"
               }
             }
           ]
