@@ -1,0 +1,2 @@
+resourcePacks:["vanilla","file/RoyalClientTheme","file/RoyalClientCape"]
+modelPart_cape:true
