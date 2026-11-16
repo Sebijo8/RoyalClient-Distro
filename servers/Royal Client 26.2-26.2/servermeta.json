@@ -1,0 +1,21 @@
+{
+  "$schema": "file:///C:/RoyalDistro/Paczka/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "Royal Client 26.2 (Minecraft 26.2)",
+    "description": "Royal Client 26.2 Running Minecraft 26.2 (Fabric v0.20.1)",
+    "icon": "How to set the server icon: https://github.com/dscalzi/Nebula#setting-the-server-icon",
+    "address": "localhost:25565",
+    "discord": {
+      "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    },
+    "mainServer": false,
+    "autoconnect": false
+  },
+  "fabric": {
+    "version": "0.20.1"
+  },
+  "untrackedFiles": []
+}
