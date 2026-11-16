@@ -1,0 +1,18 @@
+{
+  "$schema": "file:///C:/RoyalDistro/Paczka/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "Minecraft 1.8.1 (Minecraft 1.8.1)",
+    "description": "Minecraft 1.8.1 Running Minecraft 1.8.1",
+    "icon": "How to set the server icon: https://github.com/dscalzi/Nebula#setting-the-server-icon",
+    "address": "localhost:25565",
+    "discord": {
+      "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    },
+    "mainServer": false,
+    "autoconnect": false
+  },
+  "untrackedFiles": []
+}
